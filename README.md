@@ -1,3 +1,5 @@
+ABUSE - WHISTLEBLOWER - UNAUTHORIZED ACCESS - DELETE IMMEDIATELY 
+
 # esphome-devices.com
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4cab5ac3-6466-4c05-ad3f-f5c0a62dc18c/deploy-status)](https://app.netlify.com/sites/esphome-devices/deploys)
